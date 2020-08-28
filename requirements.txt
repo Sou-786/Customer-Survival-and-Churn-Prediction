@@ -13,10 +13,9 @@ matplotlib==3.0.3
 PDPbox==0.2.0
 pickle-mixin==1.0.2
 pickleshare==0.7.5
-Pillow @ file:///D:/bld/pillow_1594213067156/work
 requests==2.24.0
 scikit-image==0.17.2
-scikit-learn @ file:///D:/bld/scikit-learn_1596546339435/work
+scikit-learn==0.22.1
 scikit-plot==0.3.7
 scipy==1.5.2
 seaborn==0.10.1
