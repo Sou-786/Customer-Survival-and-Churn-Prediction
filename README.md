@@ -12,11 +12,13 @@ Kaplan-Meier Curve (My Blog) - https://medium.com/@soumitkar.5/kaplan-meier-curv
 STEPS
 
 step 1
+
 Problem Defination
 
 The key challenge is to predict if an individual customer will churn or not.
 
 step 2
+
 Data Collection
 
 The data set for this classification problem is taken from Kaggle and stems from the IBM sample data set collection (https://www.kaggle.com/blastchar/telco-customer-churn).
