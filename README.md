@@ -4,32 +4,43 @@ Heroku app
 My Heroku app : https://customerchurnpredict.herokuapp.com/
 
 SURVIVAL ANALYSIS
+
 Survival analysis is a branch of statistics for analyzing the expected duration of time until one or more events happen, such as death in biological organisms and failure in mechanical systems.
 
 Kaplan-Meier Curve (My Blog) - https://medium.com/@soumitkar.5/kaplan-meier-curve-6319a978c451
 
 STEPS
+
 step 1
 Problem Defination
+
 The key challenge is to predict if an individual customer will churn or not.
 
 step 2
 Data Collection
+
 The data set for this classification problem is taken from Kaggle and stems from the IBM sample data set collection (https://www.kaggle.com/blastchar/telco-customer-churn).
 
 step 3
+
 Exploratory Data Analysis
+
 After data collection, several steps are carried out to explore the data. Goal of this step is to get an understanding of the data structure, conduct initial preprocessing, clean the data, identify patterns and inconsistencies in the data (i.e. skewness, outliers, missing values) and build and validate hypotheses.
 
 Step 4
+
 Feature Engineering
+
 In feature engineering, a new feature is generated from extisting features and a correlation analysis is conducted after all features have been transformed to numerical.
 
-Step 5
+Step 5 
+
 Train-Test-Split
+
 The data set is split into 80% training data and 20% test data. The “Churn” column is defined as the class (the “y”), the remaining columns as the features (the “X”).
 
 Step 6
+
 Model Evaluation Metrics
 
 For performance assessment of the chosen models, various metrics are used:
