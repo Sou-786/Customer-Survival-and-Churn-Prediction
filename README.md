@@ -62,3 +62,5 @@ Precision-Recall-Curve: Shows the diagnostic ability by comparing false positive
 F1 Score: Builds the harmonic mean of precision and recall and thereby measures the compromise between both.
 
 AUC (for PRC): Measures the overall separability between classes of the model related to the Precision-Recall curve
+
+![APP](static/images/Churn_app.png "APP")
