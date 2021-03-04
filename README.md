@@ -3,7 +3,7 @@ Customer churn is one of the most important metrics for a growing business to ev
 Heroku app
 My Heroku app : https://customerchurnpredict.herokuapp.com/
 
-SURVIVAL ANALYSIS
+# SURVIVAL ANALYSIS
 
 Survival analysis is a branch of statistics for analyzing the expected duration of time until one or more events happen, such as death in biological organisms and failure in mechanical systems.
 
@@ -63,12 +63,13 @@ F1 Score: Builds the harmonic mean of precision and recall and thereby measures 
 
 AUC (for PRC): Measures the overall separability between classes of the model related to the Precision-Recall curve
 
-#Built with
+# Built with
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://github.com/tomchen/stack-icons/raw/master/logos/bootstrap.svg"></code>
-
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 <code><img height="30" src="https://symbols.getvecta.com/stencil_80/56_flask.3a79b5a056.jpg"></code>
 
 
