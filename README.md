@@ -73,14 +73,15 @@ AUC (for PRC): Measures the overall separability between classes of the model re
 <code><img height="30" src="https://symbols.getvecta.com/stencil_80/56_flask.3a79b5a056.jpg"></code>
 
 
-![L](static/images/Untitled presentation.png "L")
+![APP](static/images/presentation.png "APP")
 
-![APP](static/Untitled presentation.png(1) "APP")
+![APP](static/images/Untitled_presentation1.png "APP")
 
-![APP](static/Untitled presentation.png(2) "APP")
+![APP](static/images/Untitled_presentation2.png "APP")
 
-![APP](static/Untitled presentation.png(3) "APP")
+![APP](static/images/presentation3.png "APP")
 
-![APP](static/Untitled presentation.png(4) "APP")
+
+![APP](static/images/presentation4.png "APP")
 
 ![APP](static/images/Churn_app.png "APP")
