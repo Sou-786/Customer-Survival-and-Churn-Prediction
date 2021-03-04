@@ -76,7 +76,7 @@ AUC (for PRC): Measures the overall separability between classes of the model re
 <code><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
 
-![APP](static/images/presentation.png "APP")
+![APP](static/images/Presentation_L.png "APP")
 
 ![APP](static/images/Untitled_presentation1.png "APP")
 
