@@ -74,9 +74,13 @@ AUC (for PRC): Measures the overall separability between classes of the model re
 
 
 ![APP](static/Untitled presentation.png "APP")
+
 ![APP](static/Untitled presentation.png(1) "APP")
+
 ![APP](static/Untitled presentation.png(2) "APP")
+
 ![APP](static/Untitled presentation.png(3) "APP")
+
 ![APP](static/Untitled presentation.png(4) "APP")
 
 ![APP](static/images/Churn_app.png "APP")
